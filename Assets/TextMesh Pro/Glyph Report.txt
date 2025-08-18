@@ -1,0 +1,14 @@
+Font: Cafe24 PRO UP  Style: Regular
+Point Size: 39   Padding: 1   SP/PD Ratio: 2.6%
+
+Characters included: 2468/2470
+Missing characters: 2
+Excluded characters: 0
+
+Characters missing from font file:
+----------------------------------------
+ID: 9	Hex: 9	Char [	]
+ID: 45992	Hex: B3A8	Char [뎨]
+
+Characters excluded from packing:
+----------------------------------------
